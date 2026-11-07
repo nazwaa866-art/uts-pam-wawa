@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Wireframe Palette -->
+    <color name="bg_main">#FFFFFF</color>
+    <color name="app_black">#1A1A1A</color>
+    <color name="text_dark">#111111</color>
+    <color name="text_muted">#666666</color>
+
+    <!-- Theme Fallback Color Alias -->
+    <color name="coffee_dark">#1A1A1A</color>
+    <color name="coffee_secondary">#444444</color>
+    <color name="coffee_bg">#FFFFFF</color>
+
+    <!-- Peach / Tan Colors for Logo, Cards, and Foto box -->
+    <color name="peach_logo">#FCD5B5</color>
+    <color name="peach_card">#FFF0E3</color>
+    <color name="peach_card_stroke">#F8C4A0</color>
+    <color name="peach_foto">#F5C29A</color>
+
+    <!-- Green Badge for OK Confirmation -->
+    <color name="green_badge">#A5E6BA</color>
+    <color name="green_text">#1B5E20</color>
+
+    <!-- Input Fields -->
+    <color name="input_bg">#FFFFFF</color>
+    <color name="input_border">#D0D5DD</color>
+</resources>
